@@ -11,18 +11,18 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: '我们提供生活类软件开发服务。',
             contact: '联系方式',
             contactInfo: '如需更多信息，请联系：<a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. 保留所有权利。'
+            copyright: '© 2025 WingCloud Ltd. 保留所有权利。'
         },
         'en': {
             title: 'Welcome to WingCloud',
             culture: 'Company Culture',
-            cultureText: 'At WingCloud, we shine like stars, pursuing innovation and team harmony, driving the waves of technology, weaving a beautiful symphony of culture and technology.',
+            cultureText: 'At WingCloud Ltd, we shine like stars, pursuing innovation and team harmony, driving the waves of technology, weaving a beautiful symphony of culture and technology.',
             cultureCreative: 'Unlimited creativity brings more fun to people.',
             services: 'Main Services',
             servicesText: 'We provide software development services for daily life.',
             contact: 'Contact',
             contactInfo: 'For more information, please contact: <a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. All rights reserved.'
+            copyright: '© 2025 WingCloud Ltd. All rights reserved.'
         },
         'ar': {
             title: 'مرحبًا بكم في WingCloud',
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: 'نحن نقدم خدمات تطوير البرمجيات للحياة اليومية.',
             contact: 'اتصل',
             contactInfo: 'للمزيد من المعلومات، يرجى الاتصال: <a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. جميع الحقوق محفوظة.'
+            copyright: '© 2025 WingCloud Ltd. جميع الحقوق محفوظة.'
         },
         'fr': {
             title: 'Bienvenue à WingCloud',
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: 'Nous fournissons des services de développement de logiciels pour la vie quotidienne.',
             contact: 'Contact',
             contactInfo: 'Pour plus d\'informations, veuillez contacter : <a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. Tous droits réservés.'
+            copyright: '© 2025 WingCloud Ltd. Tous droits réservés.'
         },
         'de': {
             title: 'Willkommen bei WingCloud',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: 'Wir bieten Softwareentwicklungsdienste für das tägliche Leben an.',
             contact: 'Kontakt',
             contactInfo: 'Für weitere Informationen kontaktieren Sie bitte: <a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. Alle Rechte vorbehalten.'
+            copyright: '© 2025 WingCloud Ltd. Alle Rechte vorbehalten.'
         },
         'ja': {
             title: 'ウィングクラウドへようこそ',
@@ -66,29 +66,29 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: '私たちは日常生活のためのソフトウェア開発サービスを提供しています。',
             contact: '連絡先',
             contactInfo: '詳細については、次のアドレスにお問い合わせください：<a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. すべての権利を保留します。'
+            copyright: '© 2025 WingCloud Ltd. すべての権利を保留します。'
         },
         'zh-tw': {
             title: '歡迎來到 WingCloud',
             culture: '公司文化',
-            cultureText: '在 WingCloud，我們如同星辰般閃耀，追求創新與團隊的和諧，推動科技的浪潮，編織人文與科技的美麗交響。',
+            cultureText: '在 WingCloud Ltd，我們如同星辰般閃耀，追求創新與團隊的和諧，推動科技的浪潮，編織人文與科技的美麗交響。',
             cultureCreative: '創意無限，為人們帶來更多有趣。',
             services: '主要業務',
             servicesText: '我們提供生活類軟體開發服務。',
             contact: '聯絡方式',
             contactInfo: '如需更多資訊，請聯絡：<a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. 保留所有權利。'
+            copyright: '© 2025 WingCloud Ltd. 保留所有權利。'
         },
         'zh-hk': {
             title: '歡迎來到 WingCloud',
             culture: '公司文化',
-            cultureText: '在 WingCloud，我們如同星辰般閃耀，追求創新與團隊的和諧，推動科技的浪潮，編織人文與科技的美麗交響。',
+            cultureText: '在 WingCloud Ltd，我們如同星辰般閃耀，追求創新與團隊的和諧，推動科技的浪潮，編織人文與科技的美麗交響。',
             cultureCreative: '創意無限，為人們帶來更多有趣。',
             services: '主要業務',
             servicesText: '我們提供生活類軟體開發服務。',
             contact: '聯絡方式',
             contactInfo: '如需更多資訊，請聯絡：<a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. 保留所有權利。'
+            copyright: '© 2025 WingCloud Ltd. 保留所有權利。'
         },
         'ms': {
             title: 'Selamat datang ke WingCloud',
@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: 'Kami menyediakan perkhidmatan pembangunan perisian untuk kehidupan seharian.',
             contact: 'Hubungi',
             contactInfo: 'Untuk maklumat lanjut, sila hubungi: <a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. Semua hak terpelihara.'
+            copyright: '© 2025 WingCloud Ltd. Semua hak terpelihara.'
         },
         'it': {
             title: 'Benvenuti in WingCloud',
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
             servicesText: 'Offriamo servizi di sviluppo software per la vita quotidiana.',
             contact: 'Contatto',
             contactInfo: 'Per ulteriori informazioni, contattare: <a href="mailto:zanxinz@outlook.com">zanxinz@outlook.com</a>',
-            copyright: '© 2025 WingCloud. Tutti i diritti riservati.'
+            copyright: '© 2025 WingCloud Ltd. Tutti i diritti riservati.'
         }
     };
 
