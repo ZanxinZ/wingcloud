@@ -1,2 +1,2 @@
 # wingcloud
-website for WingCloud LTD
+Website for WingCloud LTD
